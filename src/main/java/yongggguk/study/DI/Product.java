@@ -1,4 +1,4 @@
-package yongggguk.study.oop.DI;
+package yongggguk.study.DI;
 
 public interface Product {
 }
