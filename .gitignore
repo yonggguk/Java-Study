@@ -6,6 +6,7 @@
 
 #Build files
 .gradle
+build
 
 # BlueJ files
 *.ctxt
