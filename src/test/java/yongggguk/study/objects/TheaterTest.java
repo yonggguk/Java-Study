@@ -16,9 +16,7 @@ class TheaterTest {
         Audience audience = new Audience(bag);
 
         Ticket ticket = new Ticket();
-        System.out.println(ticket.getFee());
         TicketOffice ticketOffice = new TicketOffice(0L, ticket);
-        System.out.println(bag.hasInvitation());
     }
 
 }
